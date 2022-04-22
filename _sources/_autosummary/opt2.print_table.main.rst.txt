@@ -1,6 +1,0 @@
-﻿opt2.print\_table.main
-======================
-
-.. currentmodule:: opt2.print_table
-
-.. autofunction:: main

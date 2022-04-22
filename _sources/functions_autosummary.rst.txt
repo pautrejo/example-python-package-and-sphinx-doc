@@ -10,4 +10,4 @@ Print table module
 .. autosummary::
    :toctree: _autosummary
 
-   print_table.main
+   bellman_ford.bf_negative_cycle
